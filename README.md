@@ -3,6 +3,7 @@
 
 ### About me
 - ⚽ Passionate about football analytics and statistics
+- 🤓 Math enjoyer
 - 📐 Civil engineer
 - 🧠 Software developer
 
