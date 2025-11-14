@@ -8,12 +8,16 @@
 - 🧠 Software developer
 
 ## 🛠️ My Tech Stack
-**Languages**
+#### Languages
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) \
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) \
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) \
 ![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white)
+
+#### Databases
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
 
 #### Scripting
 
