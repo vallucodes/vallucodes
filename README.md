@@ -36,7 +36,8 @@
 ![GDB](https://img.shields.io/badge/GDB-FF8800?style=flat)
 
 #### Graphics Library
-![SFML](https://img.shields.io/badge/SFML-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB…)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat&logo=sfml&logoColor=white)
+
 
 ---
 
